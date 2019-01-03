@@ -18,7 +18,6 @@ This is an example of how to scrape the web using:
 * `npm start` Scrapes specified website and prints output to console (View > Terminal or ctrl + `). 
 
 # Best Practices
-* Do not commit to master
 * Save all dependencies to packages.json when doing an NPM install
 * Before doing an NPM install check if dependency is a dev dependency, if so install it as a dev dependency. 
 
